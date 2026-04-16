@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075269774837",
+    "project_id": "visionary-cash-check",
+    "storage_bucket": "visionary-cash-check.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075269774837:android:eacd1a56d581eec72284bc",
+        "android_client_info": {
+          "package_name": "com.example.visionary_cash_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075269774837-5q30lfbmflbb5ehig39kkcvjc377skh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSTXgQ5679VYit3kmCD3cQNzXba8Ewzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075269774837-5q30lfbmflbb5ehig39kkcvjc377skh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
